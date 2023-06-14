@@ -1,5 +1,6 @@
 - 👋 Hi, I’m RadoslavTsvetanov
-- 👀 I’m interested  in game development, web development and python
-- 🌱 I’m currently learning unity,c, pytorch,nextJS, node, Prisma, Trpc,
+- 👀 I’m interested  in game development, web development, python and embedded
+- 🌱 I’m currently learning Unity, C, Pytorch, NextJS, Node, Prisma, Trpc, Rust, Rust-- (C++)
 - 📫 How to reach me - radoslav.a.tsvetanov@elsys-bg.org
 - Biggest C family hater
+- Rust > C / C++
