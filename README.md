@@ -4,3 +4,4 @@
 - 📫 How to reach me - radoslav.a.tsvetanov@elsys-bg.org
 - Biggest C family hater
 - Rust > C / C++
+- I am most experienced in Python, Node, C (unfortunately) and the T3 web stack
