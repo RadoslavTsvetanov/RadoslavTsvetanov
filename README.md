@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40"/>
   <img src=" https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
  <img src=" https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40" height="40"/>
 </div>
 
 - 📫 How to reach me - radoslav.a.tsvetanov@elsys-bg.org
