@@ -5,6 +5,8 @@
 
 - 👋 Hi, I’m RadoslavTsvetanov
 - 👀 I’m interested  in game development, web development, ai/ml and embedded
+- Languages that I am most experienced with Python, JS/TS, C (unfortunately) and the T3 web stack, Go
+- technologies I am most experienced with Docker, K8S, REST, GraphQL, gRPC, RabbitMQ and Terraform
 - check my npm modules: https://www.npmjs.com/~rado321123
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,7 +26,6 @@
 - 📫 How to reach me - radoslav.a.tsvetanov@elsys-bg.org
 - Biggest C family hater
 - Rust > C / C++
-- I am most experienced in Python, JS/TS, C (unfortunately) and the T3 web stack, Go 
 - Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RadoslavTsvetanov&theme=dark&background=000000)](https://git.io/streak-stats)
 
