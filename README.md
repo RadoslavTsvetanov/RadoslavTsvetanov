@@ -1,9 +1,11 @@
 
 
 - 👋 Hi, I’m RadoslavTsvetanov
-- 👀 I’m interested  in game development, web development, ai/ml and embedded
-- Languages that I am most experienced with Python, JS/TS, C (unfortunately) and the T3 web stack, Go
-- technologies I am most experienced with Docker, K8S, REST, GraphQL, gRPC, RabbitMQ and Terraform
+- 👀 I’m interested  in game development, backend (distributed systems), devops 
+- I love building tooling (internal and external) to make my and other devs work easier
+- Languages that I am most experienced with Python, JS/TS, C, Go and the JVM ecosystem (Java, Kotlin and scala - for scala i am not that into the lang but so far love ot so much that i imagine i will quickly stack up experience in the lang)
+- technologies I am most experienced with Docker, K8S, REST, GraphQL, gRPC, RabbitMQ, Kafka, SQL and Terraform
+- 
 - check my npm modules: https://www.npmjs.com/~rado321123
 ### :hammer_and_wrench: Languages and Tools :
 <div>
