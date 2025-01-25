@@ -5,7 +5,9 @@
 - I love building tooling (internal and external) to make my and other devs work easier
 - Languages that I am most experienced with Python, JS/TS, C, Go and the JVM ecosystem (Java, Kotlin and scala - for scala i am not that into the lang but so far love ot so much that i imagine i will quickly stack up experience in the lang)
 - technologies I am most experienced with Docker, K8S, REST, GraphQL, gRPC, RabbitMQ, Kafka, SQL and Terraform
-- 
+- WORK EXPERIENCE
+- - Haemimomt internship for 2 months and offer for continuation 
+- - tumba solutions internship in android app development with jetpackcompose and kotlin
 - check my npm modules: https://www.npmjs.com/~rado321123
 ### :hammer_and_wrench: Languages and Tools :
 <div>
