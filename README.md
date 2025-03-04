@@ -25,7 +25,6 @@
 </div>
 
 - 📫 How to reach me - radoslav.a.tsvetanov@elsys-bg.org
-- Biggest C family hater
 - Rust > C / C++
 - Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RadoslavTsvetanov&theme=dark&background=000000)](https://git.io/streak-stats)
