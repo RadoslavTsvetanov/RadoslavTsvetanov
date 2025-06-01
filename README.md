@@ -5,13 +5,15 @@
 - 🔭 I’m passionate about **game development**, **backend engineering** (especially distributed systems), **DevOps**, and **cybersecurity** (with a focus on malware analysis).
 - 🛠️ I love building **tools** (internal/external) to enhance developer productivity or sometimes just for learning.
 #### Experienced in:
+
 ##### Languages:
   - **Python**
   - **JavaScript/TypeScript** (Type Wizard™)
   - **C**
   - **Go**
   - **Scala**
-  Tech:
+  
+##### Tech:
   - **Docker**
   - **Kubernetes**
   - **REST**
