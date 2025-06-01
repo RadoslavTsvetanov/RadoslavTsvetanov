@@ -1,9 +1,9 @@
 
 
 - 👋 Hi, I’m RadoslavTsvetanov
-- 👀 I’m interested  in game development, backend (distributed systems), devops 
+- 👀 I’m interested  in game development, backend (distributed systems), devops and cybersecurity (particularly malware analysis)
 - I love building tooling (internal and external) to make my and other devs work easier
-- Languages that I am most experienced with Python, JS/TS, C, Go and the JVM ecosystem (Java, Kotlin and scala - for scala i am not that into the lang but so far love ot so much that i imagine i will quickly stack up experience in the lang)
+- Languages that I am most experienced with Python, JS/TS (i can confidently call myself type wizard), C, Go, scala 
 - technologies I am most experienced with Docker, K8S, REST, GraphQL, gRPC, RabbitMQ, Kafka, SQL and Terraform
 - WORK EXPERIENCE
 - - Haemimomt internship for 2 months and offer for continuation 
