@@ -1,12 +1,26 @@
 # 👋 Hi, I’m Radoslav Tsvetanov
 
 ### 👨‍💻 About Me
-
+- generally interested in tech 
 - 🔭 I’m passionate about **game development**, **backend engineering** (especially distributed systems), **DevOps**, and **cybersecurity** (with a focus on malware analysis).
-- 🛠️ I love building **tools** (internal/external) to enhance developer productivity.
-- 🧙‍♂️ Experienced in:
-  - Languages: **Python**, **JavaScript/TypeScript** (Type Wizard™), **C**, **Go**, **Scala**
-  - Tech: **Docker**, **Kubernetes**, **REST**, **GraphQL**, **gRPC**, **RabbitMQ**, **Kafka**, **SQL**, **Terraform**
+- 🛠️ I love building **tools** (internal/external) to enhance developer productivity or sometimes just for learning.
+#### Experienced in:
+##### Languages:
+  - **Python**
+  - **JavaScript/TypeScript** (Type Wizard™)
+  - **C**
+  - **Go**
+  - **Scala**
+  Tech:
+  - **Docker**
+  - **Kubernetes**
+  - **REST**
+  - **GraphQL**
+  - **gRPC**
+  - **RabbitMQ**
+  - **Kafka**
+  - **SQL**
+  - **Terraform**
 
 ---
 
@@ -44,8 +58,8 @@ Check out my published modules:
 
 ### 📫 Contact Me
 
-📧 radoslav.a.tsvetanov@elsys-bg.org  
-🔥 Rust > C / C++
+📧 radoslav.a.tsvetanov@elsys-bg.org (work email)
+📧 radoslavcvetanov5@gmail.com (personal email)
 
 ---
 
