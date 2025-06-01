@@ -25,7 +25,8 @@
 </div>
 
 - 📫 How to reach me - radoslav.a.tsvetanov@elsys-bg.org
-- Rust > C / C++
+
+
 - Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RadoslavTsvetanov&theme=dark&background=000000)](https://git.io/streak-stats)
 
